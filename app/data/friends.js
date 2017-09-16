@@ -1,0 +1,118 @@
+// Friends (DATA)
+// =============================================================
+var friends = [
+{
+  "name":"Abed",
+  "photo":"http://via.placeholder.com/200x200",
+  "scores":[
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+}, 
+{
+  "name":"Amy",
+  "photo":"http://via.placeholder.com/200x200",
+  "scores":[
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ]
+}, 
+{
+  "name":"Brita",
+  "photo":"http://via.placeholder.com/200x200",
+  "scores":[
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+}, 
+{
+  "name":"Chang",
+  "photo":"http://via.placeholder.com/200x200",
+  "scores":[
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+},
+{
+  "name":"Jeff",
+  "photo":"http://via.placeholder.com/200x200",
+  "scores":[
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+},
+{
+  "name":"Sherry",
+  "photo":"http://via.placeholder.com/200x200",
+  "scores":[
+      1,
+      1,
+      1,
+      1,
+      1,
+      5,
+      5,
+      5,
+      5,
+      5
+    ]
+},
+{
+  "name":"Troy",
+  "photo":"http://via.placeholder.com/200x200",
+  "scores":[
+      2,
+      2,
+      2,
+      2,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4
+    ]
+}    
+];
+
+module.exports = friends;
