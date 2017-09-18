@@ -3,116 +3,131 @@
 var friends = [
 {
   "name":"Abed",
-  "photo":"http://via.placeholder.com/200x200",
+  "photo":"https://vignette.wikia.nocookie.net/community-sitcom/images/e/e8/Abed_Season_Five.jpg/revision/latest?cb=20170802130826",
   "scores":[
+      5,
+      5,
+      5,
+      3,
+      3,
       1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      4,
+      5,
       1,
       1
     ]
 }, 
 {
-  "name":"Amy",
-  "photo":"http://via.placeholder.com/200x200",
+  "name":"Annie",
+  "photo":"https://vignette.wikia.nocookie.net/community-sitcom/images/8/82/Annie_Season_Five.jpg/revision/latest?cb=20150606151621",
   "scores":[
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2,
-      2
+      5,
+      3,
+      4,
+      5,
+      3,
+      4,
+      4,
+      3,
+      1,
+      1
     ]
 }, 
 {
   "name":"Brita",
-  "photo":"http://via.placeholder.com/200x200",
+  "photo":"https://vignette.wikia.nocookie.net/community-sitcom/images/f/f0/Britta_Season_Five.jpg/revision/latest?cb=20150606141234",
   "scores":[
       3,
+      1,
+      4,
+      1,
+      5,
+      4,
+      5,
       3,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3
+      2,
+      1
     ]
 }, 
 {
   "name":"Chang",
-  "photo":"http://via.placeholder.com/200x200",
+  "photo":"https://vignette.wikia.nocookie.net/community-sitcom/images/c/c1/Chang_S5_headshot.jpg/revision/latest?cb=20140101080218",
   "scores":[
+      5,
+      1,
+      1,
+      5,
+      1,
+      5,
+      1,
       4,
       4,
-      4,
-      4,
-      4,
-      4,
-      4,
-      4,
-      4,
-      4
+      1
     ]
 },
 {
   "name":"Jeff",
-  "photo":"http://via.placeholder.com/200x200",
-  "scores":[
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5,
-      5
-    ]
-},
-{
-  "name":"Sherry",
-  "photo":"http://via.placeholder.com/200x200",
+  "photo":"https://vignette.wikia.nocookie.net/community-sitcom/images/6/66/Jeff_Season_Five.jpg/revision/latest?cb=20131205004423",
   "scores":[
       1,
       1,
       1,
       1,
-      1,
+      3,
+      4,
       5,
+      3,
       5,
-      5,
-      5,
-      5
+      1
     ]
 },
 {
+  "name":"Pierce",
+  "photo":"https://vignette.wikia.nocookie.net/community-sitcom/images/b/b4/Hologram_Pierce.jpg/revision/latest?cb=20140103151842",
+  "scores":[
+      5,
+      5,
+      5,
+      1,
+      3,
+      5,
+      4,
+      5,
+      1,
+      1
+    ]
+},
+{
+  "name":"Shirley",
+  "photo":"https://vignette.wikia.nocookie.net/community-sitcom/images/e/e3/Shirley_Season_Five_crop.jpg/revision/latest?cb=20140206193919",
+  "scores":[
+      5,
+      3,
+      3,
+      4,
+      2,
+      5,
+      4,
+      3,
+      2,
+      1
+    ]
+},{
   "name":"Troy",
-  "photo":"http://via.placeholder.com/200x200",
+  "photo":"https://vignette.wikia.nocookie.net/community-sitcom/images/0/02/Troy_close_up_Season_Five.jpg/revision/latest?cb=20140302174535",
   "scores":[
-      2,
-      2,
-      2,
-      2,
-      2,
       4,
+      5,
+      5,
+      1,
+      1,
+      3,
       4,
-      4,
-      4,
-      4
+      3,
+      2,
+      5
     ]
-}    
+}     
 ];
 
 module.exports = friends;
